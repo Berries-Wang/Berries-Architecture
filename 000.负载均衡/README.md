@@ -15,7 +15,9 @@
    ```txt
       1. NGINX 10w以内并发
       2. 10w+并发: LVS + Nginx
+      3. 更高的并发:DNS + LVS + Nginx
    ```
+   - DNS + LVS + Keepalived + Nginx:![DNS+LVS+Keepalived+Nginx.jpg](./999.REF-DOCS/DNS+LVS+Keepalived+Nginx.jpg)
 
 ---
 
